@@ -7,6 +7,7 @@ namespace structure
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Apples.");
         }
     }
 }
