@@ -1,0 +1,16 @@
+D:\practice\structure\bin\Debug\net5.0\structure.exe
+D:\practice\structure\bin\Debug\net5.0\structure.deps.json
+D:\practice\structure\bin\Debug\net5.0\structure.runtimeconfig.json
+D:\practice\structure\bin\Debug\net5.0\structure.runtimeconfig.dev.json
+D:\practice\structure\bin\Debug\net5.0\structure.dll
+D:\practice\structure\bin\Debug\net5.0\ref\structure.dll
+D:\practice\structure\bin\Debug\net5.0\structure.pdb
+D:\practice\structure\obj\Debug\net5.0\structure.csproj.AssemblyReference.cache
+D:\practice\structure\obj\Debug\net5.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\structure\obj\Debug\net5.0\structure.AssemblyInfoInputs.cache
+D:\practice\structure\obj\Debug\net5.0\structure.AssemblyInfo.cs
+D:\practice\structure\obj\Debug\net5.0\structure.csproj.CoreCompileInputs.cache
+D:\practice\structure\obj\Debug\net5.0\structure.dll
+D:\practice\structure\obj\Debug\net5.0\ref\structure.dll
+D:\practice\structure\obj\Debug\net5.0\structure.pdb
+D:\practice\structure\obj\Debug\net5.0\structure.genruntimeconfig.cache
